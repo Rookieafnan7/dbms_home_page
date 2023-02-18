@@ -97,6 +97,9 @@ p{
     /* background-color: white; */
 }
 
+.card4 .card-slide-img{
+    object-position: 50% 0% !important;
+}
 
 .blob1,.blob2,.blob3,.blob4{
     /* transform: scale(3); */
@@ -132,12 +135,20 @@ p{
     background-color:#5797d9;
 }
 
+.card4 .slide1{
+    background-color:#917a6f;
+}
+
 .card1 .card-img::after{
     background-color: #F74F5C !important;
 }
 
 .card3 .card-img::after{
     background-color: #2E6FB1 !important;
+}
+
+.card4 .card-img::after{
+    background-color: #a29088 !important;
 }
 
 img[class^="blob"]{
