@@ -132,7 +132,7 @@ p{
 }
 
 .card3 .slide1{
-    background-color:#5797d9;
+    background-color:#fce0da;
 }
 
 .card4 .slide1{
@@ -144,7 +144,7 @@ p{
 }
 
 .card3 .card-img::after{
-    background-color: #2E6FB1 !important;
+    background-color: #FAC0B4 !important;
 }
 
 .card4 .card-img::after{
